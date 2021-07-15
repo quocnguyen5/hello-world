@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
+Just another repository.
 Hello every one, I am Nguyen, from Da Nang, Vietnam. Nice to meet you <3
